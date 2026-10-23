@@ -1,0 +1,1 @@
+Create .github/workflows/deploy.yml using the workflow in README.md. This placeholder is not used by Vite.
